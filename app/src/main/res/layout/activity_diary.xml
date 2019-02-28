@@ -3,6 +3,6 @@
     android:layout_height="match_parent"
     android:layout_width="match_parent">
 
-    <include layout="@layout/title" />  //做个封装直接用
+    <include layout="@layout/title" />
 
 </RelativeLayout>
